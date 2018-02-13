@@ -1,3 +1,6 @@
+I'm SO COOL
+
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS-SF-25](https://github.com/ga-students/DS-SF-25)
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (7/13/16 - 9/21/16)
